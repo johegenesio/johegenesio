@@ -3,10 +3,8 @@ Desenvolvedor Full Stack e Designer de UX/UI com uma paixão por criar soluçõe
 
 - 💻 **Desenvolvimento Full Stack**: Trabalho com **Flutter**, **HTML**&**CSS**(Angular), **JavaScript**(Typescript, Node.js), **WordPress**, **Python** e **MariaDB** para construir aplicações robustas e eficientes.
 - 🎨 **Design de UX/UI**: Crio interfaces de usuário atraentes e funcionais utilizando princípios de design centrado no usuário.
-- 🌱 **Aprendizado Contínuo**: Atualmente me aperfeiçoando em **Flutter** e **MariaDB**.
 - 👯 **Colaborações**: Interessado em colaborar em projetos que unam desenvolvimento e design para criar produtos incríveis.
 - 📫 **Contato**: [joaoh.genesio@gmail.com](mailto:joaoh.genesio@gmail.com)
-- 🌍 **Fato Curioso**: Apaixonado por explorar novos conhecimentos e integrar diversidade de ideias em meus projetos.
 
 *Vamos construir algo incrível juntos!*
 
