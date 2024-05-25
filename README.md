@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, sou o João 🌐🎨
+Desenvolvedor Full Stack e Designer de UX/UI com uma paixão por criar soluções completas e intuitivas. Possuo experiência em diversas tecnologias e estou sempre em busca de novos conhecimentos.
 
-<!--
-**johegenesio/johegenesio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 **Desenvolvimento Full Stack**: Trabalho com **Flutter**, **HTML**&**CSS**(Angular), **JavaScript**(Typescript, Node.js), **WordPress**, **Python** e **MariaDB** para construir aplicações robustas e eficientes.
+- 🎨 **Design de UX/UI**: Crio interfaces de usuário atraentes e funcionais utilizando princípios de design centrado no usuário.
+- 🌱 **Aprendizado Contínuo**: Atualmente me aperfeiçoando em **Flutter** e **MariaDB**.
+- 👯 **Colaborações**: Interessado em colaborar em projetos que unam desenvolvimento e design para criar produtos incríveis.
+- 📫 **Contato**: [joaoh.genesio@gmail.com](mailto:joaoh.genesio@gmail.com)
+- 🌍 **Fato Curioso**: Apaixonado por explorar novos conhecimentos e integrar diversidade de ideias em meus projetos.
 
-Here are some ideas to get you started:
+#### Vamos construir algo incrível juntos!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=johegenesio&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=johegenesio&show_icons=true&theme=dark&title_color=ffffff&text_color=cccccc&icon_color=4E7DC5&hide_border=true&border_radius=16&ring_color=4E7DC5"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=johegenesio&show_icons=true" />
+</picture>
