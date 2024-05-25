@@ -8,7 +8,7 @@ Desenvolvedor Full Stack e Designer de UX/UI com uma paixão por criar soluçõe
 - 📫 **Contato**: [joaoh.genesio@gmail.com](mailto:joaoh.genesio@gmail.com)
 - 🌍 **Fato Curioso**: Apaixonado por explorar novos conhecimentos e integrar diversidade de ideias em meus projetos.
 
-#### Vamos construir algo incrível juntos!
+*Vamos construir algo incrível juntos!*
 
 <picture>
   <source
