@@ -16,7 +16,7 @@ Site: [johegenesio.vercel.app](https://johegenesio.vercel.app/)
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=johegenesio&show_icons=true&theme=dark&title_color=ffffff&text_color=cccccc&icon_color=4E7DC5&hide_border=true&border_radius=16&ring_color=4E7DC5&card_width=525&line_height=32&locale=pt-br"
+    srcset="https://github-readme-stats.vercel.app/api?username=johegenesio&show_icons=true&theme=dark&title_color=ffffff&text_color=cccccc&icon_color=#4E7DC5&hide_border=true&border_radius=16&ring_color=4E7DC5&card_width=525&line_height=32&locale=pt-br"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=johegenesio&show_icons=true" />
