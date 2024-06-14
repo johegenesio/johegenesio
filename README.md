@@ -10,5 +10,5 @@ Site: [johegenesio.vercel.app](https://johegenesio.vercel.app/)
 
 *Vamos construir algo incrível juntos!*
 
-![johegenesio GitHub stats](https://github-readme-stats.vercel.app/api?username=johegenesio&show_icons=true&theme=dark&title_color=ffffff&text_color=cccccc&icon_color=4E7DC5&hide_border=true&border_radius=16&ring_color=4E7DC5&card_width=525&line_height=32&locale=pt-br)
+![johegenesio GitHub stats](https://github-readme-stats.vercel.app/api?username=johegenesio&show_icons=true&theme=dark&title_color=ffffff&text_color=cccccc&icon_color=4E7DC5&hide_border=true&border_radius=16&ring_color=4E7DC5&card_width=515&line_height=32&locale=pt-br)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johegenesio&layout=donut&theme=dark&title_color=ffffff&text_color=cccccc&icon_color=4E7DC5&hide_border=true&border_radius=16&ring_color=4E7DC5&locale=pt-br)](https://github.com/johegenesio/github-readme-stats)
