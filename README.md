@@ -10,14 +10,6 @@ Site: [johegenesio.vercel.app](https://johegenesio.vercel.app/)
 
 *Vamos construir algo incrível juntos!*
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=johegenesio&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=johegenesio&show_icons=true&theme=dark&title_color=ffffff&text_color=cccccc&icon_color=4E7DC5&hide_border=true&border_radius=16&ring_color=4E7DC5&card_width=525&line_height=32&locale=pt-br"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=johegenesio&show_icons=true" />
-</picture>
+![johegenesio GitHub stats](https://github-readme-stats.vercel.app/api?username=johegenesio&show_icons=true&theme=dark&title_color=ffffff&text_color=cccccc&icon_color=4E7DC5&hide_border=true&border_radius=16&ring_color=4E7DC5&card_width=525&line_height=32&locale=pt-br)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johegenesio&layout=donut&theme=dark&title_color=ffffff&text_color=cccccc&icon_color=4E7DC5&hide_border=true&border_radius=16&ring_color=4E7DC5&locale=pt-br)](https://github.com/johegenesio/github-readme-stats)
