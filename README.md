@@ -1,17 +1,36 @@
-# Olá, sou o João 🌐🎨
-Desenvolvedor Full Stack e Designer de UX/UI com uma paixão por criar soluções completas e intuitivas. Possuo experiência em diversas tecnologias e estou sempre em busca de novos conhecimentos.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=779DFF&section=header"/>
 
-Site: [johegenesio.vercel.app](https://johegenesio.vercel.app/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=4000&pause=1000&color=779DFF&center=true&vCenter=true&random=false&width=1000&height=56&lines=Ol%C3%A1%2C+sou+o+Jo%C3%A3o;Hi%2C+I'm+Jo%C3%A3o;Sou+do+Brasil;I+from+Brasil)](https://git.io/typing-svg)
 
-- 💻 **Desenvolvimento Full Stack**: Trabalho com **Flutter**, **HTML**&**CSS**(Angular), **JavaScript**(Typescript, Node.js), **WordPress**, **Python** e **MariaDB** para construir aplicações robustas e eficientes.
-- 🎨 **Design de UX/UI**: Crio interfaces de usuário atraentes e funcionais utilizando princípios de design centrado no usuário.
-- 👯 **Colaborações**: Interessado em colaborar em projetos que unam desenvolvimento e design para criar produtos incríveis.
-- 📫 **Contato**: [joaoh.genesio@gmail.com](mailto:joaoh.genesio@gmail.com)
+<div align="center">  
+  
+  ![johegenesio GitHub stats](https://github-readme-stats.vercel.app/api?username=johegenesio&show_icons=true&theme=dark&title_color=ffffff&text_color=cccccc&icon_color=4E7DC5&hide_border=true&border_radius=16&ring_color=4E7DC5&card_width=515&line_height=34&locale=pt-br&hide=contribs)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johegenesio&layout=donut&theme=dark&title_color=ffffff&text_color=cccccc&icon_color=4E7DC5&hide_border=true&border_radius=16&ring_color=4E7DC5&locale=pt-br)](https://github.com/johegenesio/github-readme-stats)
 
-*Vamos construir algo incrível juntos!*
+  <hr>
+  
+  Desenvolvedor Full Stack e Designer de UX/UI com uma paixão por criar soluções completas e intuitivas. Possuo experiência em diversas tecnologias e estou sempre em busca de novos conhecimentos.
 
-## GitHub status 👨🏻‍💻
+  *Vamos construir algo incrível juntos!*
+  
+  [johegenesio.vercel.app](https://johegenesio.vercel.app/)
 
-![johegenesio GitHub stats](https://github-readme-stats.vercel.app/api?username=johegenesio&show_icons=true&theme=dark&title_color=ffffff&text_color=cccccc&icon_color=4E7DC5&hide_border=true&border_radius=16&ring_color=4E7DC5&card_width=515&line_height=32&locale=pt-br)
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johegenesio&layout=donut&theme=dark&title_color=ffffff&text_color=cccccc&icon_color=4E7DC5&hide_border=true&border_radius=16&ring_color=4E7DC5&locale=pt-br)](https://github.com/johegenesio/github-readme-stats)
+<div align="center">
+
+<div style="display: inline_block"><br>
+  
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
+</div>
+
+</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=779DFF&section=footer"/>
