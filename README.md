@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=779DFF&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=4000&pause=1000&color=779DFF&center=true&vCenter=true&random=false&width=1000&height=56&lines=Ol%C3%A1%2C+sou+o+Jo%C3%A3o;Hi%2C+I'm+Jo%C3%A3o;Sou+do+Brasil;I+from+Brasil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=4000&pause=1000&color=779DFF&center=true&vCenter=true&random=false&width=1000&height=40&lines=Ol%C3%A1%2C+sou+o+Jo%C3%A3o;Hi%2C+I'm+Jo%C3%A3o;Sou+do+Brasil;I+from+Brasil)](https://git.io/typing-svg)
 
 <div align="center">  
   
