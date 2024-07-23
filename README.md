@@ -21,15 +21,19 @@
 
 <div style="display: inline_block"><br>
   
-  <img align="center" alt="HTML" height="40" width="40" src="https://johegenesio.vercel.app/assets/icon/Html%205.png">
-  <img align="center" alt="CSS" height="40" width="40" src="https://johegenesio.vercel.app/assets/icon/CSS3.png">
-  <img align="center" alt="Js" height="40" width="40" src="https://johegenesio.vercel.app/assets/icon/JavaScript.png">
-  <img align="center" alt="Figma" height="40" width="40" src="https://johegenesio.vercel.app/assets/icon/Figma.png">
-  <img align="center" alt="Flutter" height="40" width="40" src="https://johegenesio.vercel.app/assets/icon/Flutter.png">
-  <img align="center" alt="Python" height="40" width="40" src="https://johegenesio.vercel.app/assets/icon/Python.png">
-  <img align="center" alt="Ts" height="40" width="40" src="https://johegenesio.vercel.app/assets/icon/TypeScript.png">
-  <img align="center" alt="Angular" height="40" width="40" src="https://johegenesio.vercel.app/assets/icon/AngularJS.png">
-  <img align="center" alt="Wordpress" height="40" width="40" src="https://johegenesio.vercel.app/assets/icon/WordPress.png">
+  
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />       
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />        
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </div>
 
 </div>
