@@ -1,11 +1,11 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=779DFF&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=01B3FF&section=header"/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=40&duration=4000&pause=1000&color=779DFF&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o!;Hey%2C+I+am+Jo%C3%A3o!;%C2%A1Hola%2C+soy+Jo%C3%A3o!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=40&duration=4000&pause=1000&color=01B3FF&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o!;Hey%2C+I+am+Jo%C3%A3o!;%C2%A1Hola%2C+soy+Jo%C3%A3o!)
 
 <div align="center">  
   
-  ![johegenesio GitHub stats](https://github-readme-stats.vercel.app/api?username=johegenesio&show_icons=true&theme=dark&title_color=779DFF&text_color=fefefe&icon_color=4E7DC5&hide_border=true&border_radius=16&ring_color=4E7DC5&line_height=34&hide=contribs)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johegenesio&layout=donut&theme=dark&title_color=779DFF&text_color=fefefe&icon_color=4E7DC5&hide_border=true&border_radius=16&ring_color=4E7DC5)](https://github.com/johegenesio/github-readme-stats)
+  ![johegenesio GitHub stats](https://github-readme-stats.vercel.app/api?username=johegenesio&show_icons=true&theme=dark&title_color=01B3FF&text_color=fefefe&icon_color=01B3FF&hide_border=true&border_radius=16&ring_color=01B3FF&line_height=34&hide=contribs)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johegenesio&layout=donut&theme=dark&title_color=01B3FF&text_color=fefefe&icon_color=01B3FF&hide_border=true&border_radius=16&ring_color=01B3FF)](https://github.com/johegenesio/github-readme-stats)
 
   <hr>
   
@@ -40,4 +40,4 @@
 </div>
 
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=779DFF&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=01B3FF&section=footer"/>
