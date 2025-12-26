@@ -4,11 +4,6 @@
 
 <div align="center">  
   
-  ![johegenesio GitHub stats](https://github-readme-stats.vercel.app/api?username=johegenesio&show_icons=true&theme=dark&title_color=01B3FF&text_color=fefefe&icon_color=01B3FF&hide_border=true&border_radius=16&ring_color=01B3FF&line_height=34&hide=contribs)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johegenesio&layout=donut&theme=dark&title_color=01B3FF&text_color=fefefe&icon_color=01B3FF&hide_border=true&border_radius=16&ring_color=01B3FF)](https://github.com/johegenesio/github-readme-stats)
-
-  <hr>
-  
   Desenvolvedor Full Stack e Designer de UX/UI com uma paixão por criar soluções completas e intuitivas. Possuo experiência em diversas tecnologias e estou sempre em busca de novos conhecimentos.
 
   *Vamos construir algo incrível juntos!*
