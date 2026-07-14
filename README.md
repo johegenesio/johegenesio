@@ -1,45 +1,39 @@
-<div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=01B3FF"  />
-</div>
+# João Genesio 🩵🌐
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=40&duration=4000&pause=1000&color=01B3FF&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o!;Hey%2C+I+am+Jo%C3%A3o!;%C2%A1Hola%2C+soy+Jo%C3%A3o!)
+### Desenvolvedor Front-end & Mobile
 
-###
+### Designer UI/UX
 
-<h4 align="center">Desenvolvedor Front-end & Mobile e Designer UI?UX com uma paixão por criar soluções completas, intuitivas e acessíveis.</h4>
+Transformando ideias em produtos digitais através de design, desenvolvimento e atenção aos detalhes.
 
-###
+## Sobre mim
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-</div>
+* 💻 Gosto de construir produtos do início ao fim, unindo criatividade, design e desenvolvimento.
+* 🎨 O design é onde minhas ideias começam, e o desenvolvimento é onde elas ganham vida.
+* 📱 Desenvolvendo aplicações multiplataforma com Flutter.
+* ✨ Busco criar soluções simples, organizadas e fáceis de manter.
+* 🚀 Sempre aprendendo novas tecnologias e explorando novas formas de criar.
 
-<div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=01B3FF"  />
-</div>
+## Tecnologias
 
-###
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="28" alt="Flutter" hspace="4"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="28" alt="Dart" hspace="4"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" height="28" alt="React Native" hspace="4"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="28" alt="Next.js" hspace="4"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" alt="TypeScript" hspace="4"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="28" alt="Tailwind CSS" hspace="4"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="28" alt="Figma"/>
+</p>
+
+## Projeto em destaque
+
+🚧 Urganize
+
+Um aplicativo multiplataforma desenvolvido com Flutter, focado em organização, produtividade e uma experiência de uso intuitiva.
+
+> Em desenvolvimento.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5397F8?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/joaogenesio/)
+[![Behance](https://img.shields.io/badge/Behance-5397F8?style=for-the-badge&logo=behance&logoColor=FFFFFF)](https://www.behance.net/johegenesio)
+[![Gmail](https://img.shields.io/badge/Gmail-5397F8?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:joaoh.genesio@gmail.com)
