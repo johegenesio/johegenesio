@@ -38,4 +38,4 @@ Um aplicativo multiplataforma desenvolvido com Flutter, focado em organização,
 [![Behance](https://img.shields.io/badge/Behance-5397F8?style=for-the-badge&logo=behance&logoColor=FFFFFF)](https://www.behance.net/johegenesio)
 [![Gmail](https://img.shields.io/badge/Gmail-5397F8?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:joaoh.genesio@gmail.com)
 
-<img width="1012" height="40" alt="image" src="https://github.com/user-attachments/assets/d42588b9-678b-4683-a546-b107b085af89" />
+<img width="100%" height="40" alt="image" src="https://github.com/user-attachments/assets/d42588b9-678b-4683-a546-b107b085af89" />
