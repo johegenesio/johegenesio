@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="center">Desenvolvedor Full Stack e Designer de UX/UI com uma paixão por criar soluções completas e intuitivas. Possuo experiência em diversas tecnologias e estou sempre em busca de novos conhecimentos.</h4>
+<h4 align="center">Desenvolvedor Front-end & Mobile e Designer UI?UX com uma paixão por criar soluções completas, intuitivas e acessíveis.</h4>
 
 ###
 
