@@ -1,8 +1,6 @@
 # João Genesio 🩵🌐
 
-### Desenvolvedor Front-end & Mobile
-
-### Designer UI/UX
+### Front-end & Mobile Developer | UI Engineering | Design Systems
 
 Transformando ideias em produtos digitais através de design, desenvolvimento e atenção aos detalhes.
 
